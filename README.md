@@ -27,10 +27,10 @@ The data set contains the following diseases:
 - Vascular lesion
 
 ## Conclusions
-- Accuracy on training data has increased by using Augmentor library
-- Model is still overfitting
-- The problem of overfitting can be solved by add more layer,neurons or adding dropout layers.
-- The Model can be further improved by tuning the hyperparameter
+- Accuracy increased after using using Augmentor library
+- The model is still overfitting but comparably less
+- The model performance can be further improved by adding more layers, neurons or dropout layers.
+- The model can be also further improved by tuning the hyperparameter
 
 
 ## Technologies Used
